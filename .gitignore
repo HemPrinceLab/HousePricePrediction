@@ -1,0 +1,8 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore CSV files
+*.csv
+
+# Ignore directories named 'data'
+data/
